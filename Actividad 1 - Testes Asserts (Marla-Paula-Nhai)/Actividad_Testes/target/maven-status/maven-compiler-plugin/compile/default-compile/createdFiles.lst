@@ -1,0 +1,6 @@
+br\edu\ifsul\actividad_testes\timeout.class
+br\edu\ifsul\actividad_testes\assertNull.class
+br\edu\ifsul\actividad_testes\iterableEquals.class
+br\edu\ifsul\actividad_testes\arrayEquals.class
+br\edu\ifsul\actividad_testes\assertThrows.class
+br\edu\ifsul\actividad_testes\linesMatch.class
