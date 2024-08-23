@@ -1,13 +1,17 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package br.edu.ifsul.actividad_testes;
 
-/**
- *
- * @author IFSul
- */
 public class arrayEquals {
+    private int numeros [] = new int [3];
+
+    public int[] getNumeros() {
+        return numeros;
+    }
+
+    public void setNumeros(int[] numeros) {
+        this.numeros = numeros;
+    }
+    
+    
     
 }
